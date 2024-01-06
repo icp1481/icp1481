@@ -3,10 +3,16 @@
 ### Interest
   * PS(Problem Solving)
   * Data Science
-    
-###### 카카오 임팩트 재단 테크포임팩트(2023)
-   <https://github.com/KAISTxKST1D/K-Dual>
 
+### Career
+   * 카카오 임팩트 재단 테크포임팩트(2023)
+     - <https://github.com/KAISTxKST1D/K-Dual>
+
+   * KAIST 몰입캠프 '프로그래밍과 스타트업' 프로젝트 (2023)
+     - https://github.com/yeono000/madProject1
+     - https://github.com/fbre0717/weektwo_back
+     - https://github.com/icp1481/madcamp3
+     - https://github.com/changwann/madcamp_week4
 
 <!--
 **icp1481/icp1481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
