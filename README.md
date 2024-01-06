@@ -5,6 +5,8 @@
   * Data Science
 
 ### Career
+   * PS (2013~)
+     - <https://github.com/icp1481/PS-code>
    * 카카오 임팩트 재단 테크포임팩트(2023)
      - <https://github.com/KAISTxKST1D/K-Dual>
 
