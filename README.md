@@ -4,7 +4,7 @@
   * PS(Problem Solving)
   * Data Science
     
-#### 카카오 임팩트 재단 테크포임팩트
+###### 카카오 임팩트 재단 테크포임팩트(2023)
    <https://github.com/KAISTxKST1D/K-Dual>
 
 
