@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## oo
+<https://github.com/KAISTxKST1D/K-Dual>
+
 
 <!--
 **icp1481/icp1481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
