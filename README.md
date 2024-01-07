@@ -9,7 +9,8 @@
      - <https://github.com/icp1481/PS-code>
    * DataScience (2022~)
      - <https://github.com/icp1481/KAIST-IE343-2023-Spring-DS-Contest>
-     - https://github.com/icp1481/2022-data-science-challenge
+     - <https://github.com/icp1481/2022-data-science-challenge>
+     - <https://github.com/icp1481/Predict-CO2-Emissions-in-Rwanda>
    * 카카오 임팩트 재단 테크포임팩트(2023)
      - <https://github.com/KAISTxKST1D/K-Dual>
 
