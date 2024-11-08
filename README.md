@@ -16,8 +16,8 @@
        	- Washington, D.C. 자전거 대여량 예측 교육 콘텐츠 개발
 	  <https://www.codeit.kr/topics/project-ml-bike-sharing>
      - KAIST Decision & Operations Lab (2024.6 ~ )
-       <http://do.kaist.ac.kr/>
-       <https://github.com/icp1481/Decision-Operations-Lab>
+       - <http://do.kaist.ac.kr/>
+       - <https://github.com/icp1481/Decision-Operations-Lab>
 
    * 카카오 임팩트 재단 테크포임팩트(2023)
      - <https://github.com/KAISTxKST1D/K-Dual>
