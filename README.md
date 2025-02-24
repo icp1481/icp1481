@@ -3,6 +3,8 @@
 ### Interest
   * PS(Problem Solving)
   * Data Science
+  * ML & DL
+  * RL
 
 ### Career
    * PS (2013~)
