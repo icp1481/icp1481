@@ -13,8 +13,8 @@
    * PS (2013~)
      - <https://github.com/icp1481/PS-code>
    * DataScience & ML (2022~)
-     - <PREDICTING TITANIC SURVIVORS with ChatGPT> 집필 중
-     	- <>
+     - "PREDICTING TITANIC SURVIVORS with ChatGPT" 집필 중
+     	- <https://github.com/icp1481/Titanic_book2>
      - <https://github.com/icp1481/KAIST-IE343-2023-Spring-DS-Contest>
      - <https://github.com/icp1481/2022-data-science-challenge>
      - <https://github.com/icp1481/Predict-CO2-Emissions-in-Rwanda>
