@@ -1,6 +1,6 @@
 ## Seonkyu Lee
 
-![icp1481's GitHub stats](https://github-readme-stats.vercel.app/api?username=icp1481&show_icons=true&theme=gruvbox)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sean617)](https://solved.ac/sean617)
 ### Interest
   * PS(Problem Solving)
   * Data Science
