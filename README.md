@@ -12,12 +12,15 @@
 ### Career
    * PS (2013~)
      - <https://github.com/icp1481/PS-code>
+       
    * DataScience & ML (2022~)
      - "PREDICTING TITANIC SURVIVORS with ChatGPT" 집필 중
      	- <https://github.com/icp1481/Titanic_book2>
-     - <https://github.com/icp1481/KAIST-IE343-2023-Spring-DS-Contest>
-     - <https://github.com/icp1481/2022-data-science-challenge>
-     - <https://github.com/icp1481/Predict-CO2-Emissions-in-Rwanda>
+     - Kaggle 프로젝트
+     	- <https://github.com/icp1481/KAIST-IE343-2023-Spring-DS-Contest>
+     	- <https://github.com/icp1481/2022-data-science-challenge>
+     	- <https://github.com/icp1481/Predict-CO2-Emissions-in-Rwanda>
+        
    * intern
      - 코드잇 콘텐츠 프로듀서 인턴 (2024.2 ~ 2024.5)
        	- Washington, D.C. 자전거 대여량 예측 교육 콘텐츠 개발
