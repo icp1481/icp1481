@@ -17,7 +17,7 @@
      - 코드잇 콘텐츠 프로듀서 인턴 (2024.2 ~ 2024.5)
        	- Washington, D.C. 자전거 대여량 예측 교육 콘텐츠 개발
 	  <https://www.codeit.kr/topics/project-ml-bike-sharing>
-     - KAIST Decision & Operations Lab (2024.6 ~ )
+     - KAIST Decision & Operations Lab (2024.6 ~ 2024.12)
        - <http://do.kaist.ac.kr/>
        - <https://github.com/icp1481/Decision-Operations-Lab>
 
