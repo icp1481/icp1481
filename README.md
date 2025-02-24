@@ -1,6 +1,8 @@
 ## Seonkyu Lee
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sean617)](https://solved.ac/sean617)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icp1481&layout=compact&theme=highcontrast)
+
 ### Interest
   * PS(Problem Solving)
   * Data Science
