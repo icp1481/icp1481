@@ -1,5 +1,6 @@
 ## Seonkyu Lee
 
+![icp1481's GitHub stats](https://github-readme-stats.vercel.app/api?username=icp1481&show_icons=true&theme=gruvbox)
 ### Interest
   * PS(Problem Solving)
   * Data Science
