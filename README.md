@@ -5,14 +5,16 @@
 
 ### Interest
   * PS(Problem Solving)
-  * Data Science
-  * ML & DL
+  * Data Science & ML
+  * DL
   * RL
 
 ### Career
    * PS (2013~)
      - <https://github.com/icp1481/PS-code>
-   * DataScience (2022~)
+   * DataScience & ML (2022~)
+     - <PREDICTING TITANIC SURVIVORS with ChatGPT> 집필 중
+     	- <>
      - <https://github.com/icp1481/KAIST-IE343-2023-Spring-DS-Contest>
      - <https://github.com/icp1481/2022-data-science-challenge>
      - <https://github.com/icp1481/Predict-CO2-Emissions-in-Rwanda>
