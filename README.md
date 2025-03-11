@@ -1,7 +1,8 @@
 ## Seonkyu Lee
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sean617)](https://solved.ac/sean617)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%EC%84%A0%EA%B7%9C-%EC%9D%B4-979198286/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sean617)](https://solved.ac/sean617)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%EC%84%A0%EA%B7%9C-%EC%9D%B4-979198286/)  
 [![Tistory](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://buildgates.tistory.com/)
 
 ### Interest
