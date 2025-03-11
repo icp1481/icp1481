@@ -19,8 +19,8 @@
      - "PREDICTING TITANIC SURVIVORS with ChatGPT" 집필 중
      	- <https://github.com/icp1481/Titanic_book2>
      - Kaggle 프로젝트
+       	- <https://github.com/icp1481/2022-data-science-challenge> (KAIST & POSTECH & UNIST Competition - Silver Award)
      	- <https://github.com/icp1481/KAIST-IE343-2023-Spring-DS-Contest>
-     	- <https://github.com/icp1481/2022-data-science-challenge>
      	- <https://github.com/icp1481/Predict-CO2-Emissions-in-Rwanda>
         
    * intern
